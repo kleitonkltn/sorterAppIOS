@@ -13,6 +13,9 @@
 		CC9885AD2637371E00B7D3A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC9885AB2637371E00B7D3A6 /* Main.storyboard */; };
 		CC9885AF2637371E00B7D3A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC9885AE2637371E00B7D3A6 /* Assets.xcassets */; };
 		CC9885B22637371E00B7D3A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC9885B02637371E00B7D3A6 /* LaunchScreen.storyboard */; };
+		CC9885BD2637377000B7D3A6 /* botaogerar.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885BA2637377000B7D3A6 /* botaogerar.png */; };
+		CC9885BE2637377000B7D3A6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885BB2637377000B7D3A6 /* logo.png */; };
+		CC9885BF2637377000B7D3A6 /* botaogerar-pressionado.png in Resources */ = {isa = PBXBuildFile; fileRef = CC9885BC2637377000B7D3A6 /* botaogerar-pressionado.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		CC9885AE2637371E00B7D3A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC9885B12637371E00B7D3A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC9885B32637371E00B7D3A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC9885BA2637377000B7D3A6 /* botaogerar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = botaogerar.png; sourceTree = "<group>"; };
+		CC9885BB2637377000B7D3A6 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		CC9885BC2637377000B7D3A6 /* botaogerar-pressionado.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "botaogerar-pressionado.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			children = (
 				CC9885A52637371E00B7D3A6 /* AppDelegate.swift */,
 				CC9885A72637371E00B7D3A6 /* SceneDelegate.swift */,
+				CC9885BC2637377000B7D3A6 /* botaogerar-pressionado.png */,
+				CC9885BA2637377000B7D3A6 /* botaogerar.png */,
+				CC9885BB2637377000B7D3A6 /* logo.png */,
 				CC9885A92637371E00B7D3A6 /* ViewController.swift */,
 				CC9885AB2637371E00B7D3A6 /* Main.storyboard */,
 				CC9885AE2637371E00B7D3A6 /* Assets.xcassets */,
@@ -125,8 +134,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC9885B22637371E00B7D3A6 /* LaunchScreen.storyboard in Resources */,
+				CC9885BE2637377000B7D3A6 /* logo.png in Resources */,
 				CC9885AF2637371E00B7D3A6 /* Assets.xcassets in Resources */,
 				CC9885AD2637371E00B7D3A6 /* Main.storyboard in Resources */,
+				CC9885BD2637377000B7D3A6 /* botaogerar.png in Resources */,
+				CC9885BF2637377000B7D3A6 /* botaogerar-pressionado.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
